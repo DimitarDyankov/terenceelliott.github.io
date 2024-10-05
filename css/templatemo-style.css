@@ -1007,6 +1007,14 @@ footer .social-icon {
   max-width: 90%;
 }
 
+.tiktok-social-icon {
+  fill: #3789ed;
+}
+
+.tiktok-social-icon:hover {
+  fill: #fff;
+}
+
 @media only screen and (min-width: 420px) and (max-width: 991px) {
   .headshot-banner {
     max-width: 100%;
